@@ -15,13 +15,12 @@ class MyApp extends StatelessWidget {
     return MultiProvider(
       providers: [
         ChangeNotifierProvider(create: (_) => ShopViewModel()),
-
       ],
       child: MaterialApp(
         key: GlobalKey(), //
         debugShowCheckedModeBanner: false,
         initialRoute: Routes.home,
-        //routes: Routes.routes,
+        routes: Routes.routes,
       ),
     );
   }

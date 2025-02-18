@@ -99,13 +99,13 @@ flutter:
   fonts:
     - family: AtkinsonHyperlegible
       fonts:
-        - asset: assets/fonts/AtkinsonHyperlegible-Regular.ttf
+        - asset: assets/fonts/AtkinsonHyperlegibleNext-Regular.ttf
           weight: 400
-        - asset: assets/fonts/AtkinsonHyperlegible-Bold.ttf
+        - asset: assets/fonts/AtkinsonHyperlegibleNext-Bold.ttf
           weight: 700
-        - asset: assets/fonts/AtkinsonHyperlegible-Italic.ttf
+        - asset: assets/fonts/AtkinsonHyperlegibleNext-Italic.ttf
           style: italic
           weight: 600
-        - asset: assets/fonts/AtkinsonHyperlegible-BoldItalic.ttf
+        - asset: assets/fonts/AtkinsonHyperlegibleNext-BoldItalic.ttf
           style: italic
           weight: 800
